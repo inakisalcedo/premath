@@ -8,7 +8,7 @@ setup(
   author = 'Iñaki Salcedo',
   author_email = 'isalcedodurston@gmail.com',
   url = 'https://github.com/inakisalcedo/premath',
-  download_url = 'https://github.com/inakisalcedo/premath/archive/v_01.tar.gz',
+  download_url = 'https://github.com/inakisalcedo/premath/archive/refs/tags/v_01.tar.gz',
   keywords = ['MATH', 'REGRESSION', 'PREDICTION'],
   install_requires=[
           'numpy',
