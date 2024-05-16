@@ -5,6 +5,7 @@ setup(
   version = '0.1',
   license='MIT',
   description = 'This is a library for predictive math.',
+  long_description = 'Easy library for Linear Regression, made specially for stadistic students.',
   author = 'Iñaki Salcedo',
   author_email = 'isalcedodurston@gmail.com',
   url = 'https://github.com/inakisalcedo/premath',
