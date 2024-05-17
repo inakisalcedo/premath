@@ -13,7 +13,7 @@ setup(
   keywords = ['MATH', 'REGRESSION', 'PREDICTION'],
   install_requires=[
           'numpy',
-          'sklearn',
+          'scikit-learn',
           'scipy',
       ],
   classifiers=[
